@@ -1,4 +1,4 @@
 # pratikcodeone
-<b> This is my first Git Repository 
+<i> This is my first Git Repository 
 <br>
 Author - Pratik Mishra
